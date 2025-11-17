@@ -19,6 +19,12 @@ Half adder is a combinational circuit that performs simple addition of two binar
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
+**RTL Schematic**
+<img width="1919" height="921" alt="Screenshot 2025-11-17 113054" src="https://github.com/user-attachments/assets/fdefbef3-7fb7-49ec-85bb-92fc6eca34f7" />
+
+
+**Output/TIMING Waveform**
+<img width="1913" height="669" alt="Screenshot 2025-11-17 133657" src="https://github.com/user-attachments/assets/2baea9b0-08ac-44b7-8d26-a53ba328f930" />
 
 Figure -01 HALF ADDER
 
@@ -55,7 +61,11 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+<img width="1919" height="877" alt="Screenshot 2025-11-17 155523" src="https://github.com/user-attachments/assets/63c27520-2cab-40f9-a6cf-1ad3222250fb" />
+
 
 **Output/TIMING Waveform**
+<img width="1919" height="922" alt="Screenshot 2025-11-17 155821" src="https://github.com/user-attachments/assets/c00124b1-d725-404f-acf8-79aa32b5af06" />
+
 
 **Result:**
